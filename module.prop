@@ -1,0 +1,7 @@
+id=DaydreamVR
+name=Daydream Service
+version=v1.0
+versionCode=10
+author=DavidModPhone
+description=Add Daydream Support on your Phone
+minMagisk=17000
