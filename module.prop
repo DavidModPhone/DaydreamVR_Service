@@ -1,7 +1,7 @@
-id=DaydreamVR
-name=Daydream Service
-version=v1.0
-versionCode=10
+id=daydreamservice
+name=Daydream VR Service
+version=v1.1
+versionCode=11
 author=DavidModPhone
 description=Add Daydream Support on your Phone
-minMagisk=17000
+updateJson=https://raw.githubusercontent.com/DavidModPhone/DaydreamVR_Service/main/updateData/update.json
