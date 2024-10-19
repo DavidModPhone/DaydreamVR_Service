@@ -1,6 +1,6 @@
 {
     "version": "v1.1",
     "versionCode": "11",
-    "zipurl": "https://raw.githubusercontent.com/DavidModPhone/DaydreamVR_Service/main/updateData/update.zip",
+    "zipUrl": "https://raw.githubusercontent.com/DavidModPhone/DaydreamVR_Service/main/updateData/update.zip",
     "changelog": "https://raw.githubusercontent.com/DavidModPhone/DaydreamVR_Service/main/updateData/changelog.md"
 }
