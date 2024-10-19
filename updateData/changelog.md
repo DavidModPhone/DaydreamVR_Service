@@ -1,3 +1,6 @@
+# Version 1.2
+- Added Missing Strings
+
 # Version 1.1
 - Added android.hardware.vr.headtracking and made it seperate from android.hardware.vr.high_perfomance
 - Changed Module ID
