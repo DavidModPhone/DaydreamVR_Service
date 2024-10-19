@@ -1,5 +1,6 @@
 # Version 1.2
 - Added Missing Properties
+
 Added File List:
 - system/etc/sysconfig/pixel_2017_exclusive.xml
 - system/etc/sysconfig/pixel_2018_exclusive.xml
