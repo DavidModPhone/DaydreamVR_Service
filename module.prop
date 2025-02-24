@@ -1,7 +1,7 @@
-id=daydreamservice
-name=Daydream VR Service
-version=v1.2
-versionCode=12
-author=DavidModPhone
-description=Add Daydream Support on your Phone
+id=daydreamvrenabler
+name=Daydream VR Compatibilty Enabler
+version=v1.3
+versionCode=13
+author=ErteMesh Labs
+description=Add Daydream VR Support on your Android Phone
 updateJson=https://raw.githubusercontent.com/DavidModPhone/DaydreamVR_Service/main/updateData/update.json
