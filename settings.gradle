@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DaydreamVRDeviceSpoof"
 include ':app'
-include ':lib'
