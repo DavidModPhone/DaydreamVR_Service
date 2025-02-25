@@ -8,17 +8,17 @@ Download the Xposed Library to build the module [here](https://github.com/rovo89
 
     └── 📂app/ 
 
-     └── 📂lib/
+        └── 📂lib/
     
-        └── 📂de/
+             └── 📂de/
         
-            └── 📂robv/
+                  └── 📂robv/
             
-                └── 📂android/
+                       └── 📂android/
                 
-                    └── 📂xposed/
+                            └── 📂xposed/
                     
-                        └── 📄library files
+                                 └── 📄library files
                         
 
 Also the spoofing propreties on the code has been removed, but you can add them for yourself, these are the Daydream-Ready Phones
