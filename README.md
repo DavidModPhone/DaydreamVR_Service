@@ -4,14 +4,22 @@ On this branch you can find the source code for the spoof module
 Do not use it to create illegal stuff!
 
 Download the Xposed Library to build the module [here](https://github.com/rovo89/XposedBridge/tree/gh-pages/de/robv/android/xposed/api/82), under the app folder create a folder named "lib" and put the library here, make sure its like this:
-.
-└── 📂app/
-    └── 📂lib/
+
+
+    └── 📂app/ 
+
+     └── 📂lib/
+    
         └── 📂de/
+        
             └── 📂robv/
+            
                 └── 📂android/
+                
                     └── 📂xposed/
+                    
                         └── 📄library files
+                        
 
 Also the spoofing propreties on the code has been removed, but you can add them for yourself, these are the Daydream-Ready Phones
 - Pixel 3
