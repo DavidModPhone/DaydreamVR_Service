@@ -47,3 +47,6 @@ The module is **secure** because it doesn't collect private information, it just
 **NO COPYRIGHTED CODE IS USED!, the code is from [RisenID's PixelSpoof LSPosed Module](https://github.com/RisenID/PixelSpoof/tree/caiman)**
 
 It has been edited to make it work with Daydream VR
+
+# How can i clone the source code?
+On your terminal type git clone https://github.com/DavidModPhone/DaydreamVR_Service.git and add --branch spoofApp_src
